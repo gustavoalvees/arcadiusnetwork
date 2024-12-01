@@ -16,19 +16,35 @@ jobs:
     steps:
       - name: Check out Git repository
         uses: actions/checkout@v3
+        working-directory: ./laucher
 
       - name: Set up Node
         uses: actions/setup-node@v3
+        working-directory: ./laucher
         with:
           node-version: 20
 
       - name: Set up Python
         uses: actions/setup-python@v4
+        working-directory: ./laucher
         with:
           python-version: 3.x
+        
           
       - name: check if is folder real
         run: ls
+        shell: bash
+        working-directory: ./laucher
+        
+      - name: Install Dependencies
+        run: npm i
+        shell: bash
+        working-directory: ./laucher
+
+      - name: Build
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run dist
         shell: bash
         working-directory: ./laucher
 
