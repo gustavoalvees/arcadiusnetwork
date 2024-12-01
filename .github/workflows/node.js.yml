@@ -27,7 +27,11 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: show folders
+      - name: go laucher folder..
+        run: cd laucher
+        shell: bash
+      
+      - name: check if is folder real
         run: ls
         shell: bash
 
