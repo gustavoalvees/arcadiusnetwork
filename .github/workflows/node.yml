@@ -31,7 +31,7 @@ jobs:
         run: cd laucher
 
       - name: Install Dependencies
-        run: npm ci
+        run: npm i
         shell: bash
 
       - name: Build
