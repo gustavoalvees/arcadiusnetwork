@@ -26,12 +26,9 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: 3.x
-
-      - name: go laucher folder..
-        run: cd laucher
-        shell: bash
-      
+          
       - name: check if is folder real
         run: ls
         shell: bash
+        working-directory: ./laucher
 
