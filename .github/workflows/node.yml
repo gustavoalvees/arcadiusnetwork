@@ -27,12 +27,12 @@ jobs:
         with:
           python-version: 3.x
 
+      - name: Navigate to launcher directory
+        run: cd laucher
+
       - name: Install Dependencies
         run: npm ci
         shell: bash
-
-      - name: Navigate to launcher directory
-        run: cd laucher
 
       - name: Build
         env:
