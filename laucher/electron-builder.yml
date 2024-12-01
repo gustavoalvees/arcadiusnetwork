@@ -1,0 +1,51 @@
+appId: 'arcadiusnetworklauncher'
+productName: 'Arcadius Network - Launcher'
+artifactName: '${productName}-${version}.${ext}'
+
+copyright: 'Copyright © 2024 Arcadius Network'
+
+asar: true
+compression: 'maximum'
+
+files:
+  - '!{dist,.gitignore,.vscode,docs,dev-app-update.yml,.nvmrc,.eslintrc.json}'
+
+extraResources:
+  - 'libraries'
+
+# Windows Configuration
+win: 
+  target: 
+    - target: 'nsis'
+      arch: 'x64'
+
+# Windows Installer Configuration
+nsis:
+  oneClick: false
+  perMachine: false
+  allowElevation: true
+  allowToChangeInstallationDirectory: true
+
+# macOS Configuration
+mac:
+  target:
+    - target: 'dmg'
+      arch:
+        - 'x64'
+        - 'arm64'
+  artifactName: '${productName}-${version}-${arch}.${ext}'
+  category: 'public.app-category.games'
+
+# Linux Configuration
+linux: 
+  target: 'AppImage'
+  maintainer: 'Gustavo Alves'
+  vendor: 'Gustavo Alves'
+  synopsis: 'Arcadius Network Launcher'
+  description: 'Launcher oficial dos servidores Arcadius Network.'
+  category: 'Game'
+
+
+directories:
+  buildResources: 'build'
+  output: 'dist'

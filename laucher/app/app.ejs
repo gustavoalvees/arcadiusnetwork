@@ -1,0 +1,67 @@
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" http-equiv="Content-Security-Policy" content="script-src 'self' 'sha256-In6B8teKZQll5heMl9bS7CESTbGvuAt3VVV86BUQBDk='"/>
+    <title><%= lang('app.title') %></title>
+    <script src="./assets/js/scripts/uicore.js"></script>
+    <script src="./assets/js/scripts/uibinder.js"></script>
+    <link type="text/css" rel="stylesheet" href="./assets/css/launcher.css">
+    <link type="text/css" rel="stylesheet" href="./assets/css/offline-login.css">
+
+    <style>
+        body {
+            /*background: url('assets/images/backgrounds/<%=bkid%>.png') no-repeat center center fixed;*/
+            transition: background-image 1s ease;
+            background-size: cover;
+            -webkit-user-select: none;
+        }
+        #main {
+            display: none;
+            height: calc(100% - 22px);
+            background: linear-gradient(to top, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0) 100%);
+            width: 100%;
+            position: absolute;
+            z-index: 0;
+        }
+        #main[overlay] {
+            filter: blur(3px) contrast(0.9) brightness(1.0);
+        }
+        #background-video {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Faz o vídeo cobrir toda a tela */
+            z-index: -1; /* Fica atrás do conteúdo */
+        }
+
+    </style>
+</head>
+<body>
+    
+    <video id="background-video" autoplay muted loop>
+        <source src="https://github.com/gustavoalvees/arcadiusnetwork/raw/refs/heads/main/background.mp4" type="video/mp4">
+        Seu navegador não suporta o elemento de vídeo.
+    </video>
+    <div id="content">
+        <%- include('frame') %>
+        <div id="main">
+            <%- include('welcome') %>
+            <%- include('login') %>
+            <%- include('loginOffline') %>
+            <%- include('waiting') %>
+            <%- include('loginOptions') %>
+            <%- include('settings') %>
+            <%- include('landing') %>
+        </div>
+        <%- include('overlay') %>
+        <div id="loadingContainer">
+            <div id="loadingContent">
+                <div id="loadSpinnerContainer">
+                    <div class="loader"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

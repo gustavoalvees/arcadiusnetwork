@@ -1,0 +1,17 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "Arcadius Network - Launcher"
+
+[ejs.landing]
+mediaDiscordURL = "https://discord.gg/NxFdYkkhAn"
+mediaYoutubeURL = ""
+
+[ejs.settings]
+sourceGithubLink = ""
+supportLink = ""
+
+[ejs.welcome]
+welcomeHeader = "Sejam Bem-Vindos ao Arcadius Network!"
+welcomeDescription = ""
+welcomeDescCTA = "Você está a apenas alguns cliques de acessar o melhor servidor de mods do Brasil!"
