@@ -27,12 +27,7 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: Install Dependencies
-        run: npm ci
+      - name: show folders
+        run: ls
         shell: bash
 
-      - name: Build
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: npm run dist
-        shell: bash
