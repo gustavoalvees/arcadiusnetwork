@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/mawathilde/launcher/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/mawathilde/launcher/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/mawathilde/launcher/releases.atom"/>
+  <title>Release notes from launcher</title>
+  <updated>2024-11-30T17:05:08-03:00</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/498782487/v3.1.1</id>
+    <updated>2024-11-30T17:40:51-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/mawathilde/launcher/releases/tag/v2.1.1"/>
+    <title>🚀 v2.1.1</title>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;Changements visuels&lt;/li&gt;
+&lt;li&gt;Changement des textes&lt;/li&gt;
+&lt;li&gt;Suppression du bouton news&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>github-actions[bot]</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/498782487/v2.1.0</id>
+    <updated>2024-11-28T12:17:21-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/mawathilde/launcher/releases/tag/v2.1.0"/>
+    <title>🚀 v2.1.0</title>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;Effets de noël&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>github-actions[bot]</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/498782487/v2.0.7</id>
+    <updated>2024-02-04T12:53:57-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/mawathilde/launcher/releases/tag/v2.0.7"/>
+    <title>🚀 v2.0.7</title>
+    <content type="html">&lt;p&gt;CHANGELOG:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Changement des messages discord RPC&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>github-actions[bot]</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/498782487/v2.0.6</id>
+    <updated>2024-02-02T15:33:26-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/mawathilde/launcher/releases/tag/v2.0.6"/>
+    <title>🚀 v2.0.6</title>
+    <content type="html">&lt;p&gt;CHANGELOG:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Refonte du launcher&lt;/li&gt;
+&lt;li&gt;Changement des images de fond&lt;/li&gt;
+&lt;li&gt;mac doit fonctionner&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>github-actions[bot]</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/498782487/v1.10.0</id>
+    <updated>2022-12-29T07:13:31-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/mawathilde/launcher/releases/tag/v1.10.0"/>
+    <title>v1.10.0</title>
+    <content>No content.</content>
+    <author>
+      <name>github-actions[bot]</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/498782487/v1.9.2</id>
+    <updated>2022-12-24T08:25:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/mawathilde/launcher/releases/tag/v1.9.2"/>
+    <title>v1.9.2</title>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;Changements techniques&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>github-actions[bot]</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/498782487/v1.9.1</id>
+    <updated>2022-06-10T15:05:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/mawathilde/launcher/releases/tag/v1.9.1"/>
+    <title>v1.9.1</title>
+    <content type="html">&lt;p&gt;CHANGELOG:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Changement de l&#39;adresse du serveur de téléchargement&lt;/li&gt;
+&lt;li&gt;Résolution d&#39;un problème lié aux mises à jour du launcher&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>mawathilde</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/60544055?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/498782487/v1.9.0</id>
+    <updated>2022-06-10T13:29:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/mawathilde/launcher/releases/tag/v1.9.0"/>
+    <title>v1.9.0</title>
+    <content>No content.</content>
+    <author>
+      <name>mawathilde</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/60544055?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/498782487/1.9.0</id>
+    <updated>2022-06-08T12:40:08-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/mawathilde/launcher/releases/tag/1.9.0"/>
+    <title>1.9.0</title>
+    <content type="html">&lt;p&gt;✨ Autoupdate&lt;/p&gt;</content>
+    <author>
+      <name>mawathilde</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/60544055?s=60&amp;v=4"/>
+  </entry>
+</feed>
