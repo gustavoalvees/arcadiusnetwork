@@ -1,9 +1,9 @@
 {
-  "name": "mekalauncher",
-  "version": "1.0.1",
-  "productName": "MekaMiners Brasil",
-  "description": "Servidor com mods Brasileiro",
-  "author": "Matheus Souza Moura",
+  "name": "arcadiusnetwork",
+  "version": "3.0.0",
+  "productName": "Arcadius Network - Launcher",
+  "description": "Laucher para sua network",
+  "author": "Gustavo Alves",
   "license": "UNLICENSED",
   "homepage": "",
   "private": true,
@@ -44,6 +44,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mmouradev/MekaMinersLauncher"
+    "url": "git+https://github.com/gustavoalvees/arcadiusnetwork"
   }
 }
