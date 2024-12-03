@@ -698,13 +698,13 @@
           ]
         },
         {
-          "id": "biomesoplenty.core:biomesoplenty:7.0.1@jar",
-          "name": "Biomes O' Plenty",
+          "id": "confing_adn:anytime",
+          "name": "ConfigAnyTime",
           "type": "ForgeMod",
           "artifact": {
             "size": 4746208,
-            "url": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/forgemods/required/biomesoplenty-7.0.1.jar",
-            "MD5": "9d364be3df6fee338c1729b7fb1def1b"
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/!ConfigAnytime.jar",
+            "MD5": "3adfd6a9e04453888e68d858c0347ded"
           }
         },
         {
