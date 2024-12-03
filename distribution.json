@@ -453,14 +453,14 @@
       "id": "Wasteland",
       "name": "Arcadius Wasteland",
       "description": "Jogue um imersivo desvastado.",
-      "icon": "https://raw.githubusercontent.com/PalaDrill-Staff/PalaDrill-Distro/main/servers/PlayPalaDrill-1.12.2/icon.png",
-      "version": "1.23",
+      "icon": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/logo.png",
+      "version": "1.0.0",
       "address": "node1.vivaheberg.com:25908",
       "minecraftVersion": "1.12.2",
-      "discord": {
-        "shortId": "1066511691048828998",
-        "largeImageText": "paladrill",
-        "largeImageKey": "online"
+      "discord":{
+         "shortId":"<FILL IN OR REMOVE DISCORD OBJECT>",
+         "largeImageText":"<FILL IN OR REMOVE DISCORD OBJECT>",
+         "largeImageKey":"<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": true,
       "autoconnect": false,
