@@ -715,8 +715,61 @@
             "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/!mixinbooter.jar",
             "MD5": "1629110e46229208f13f7927deb5e362"
           }
-        },
-        {
+        },{
+          "id": "confing_adn:redcore",
+          "name": "!Red Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/!Red Core.jar",
+            "MD5": "d4b29b10a66a525fc4bf73a7394ec4c5"
+          }
+        },{
+          "id": "confing_adn:Alfheim",
+          "name": "Alfheim",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/Alfheim.jar",
+            "MD5": "8a80be70833902bb839b192e770787f0"
+          }
+        },{
+          "id": "confing_adn:BlockPhysicsAPI",
+          "name": "Block Physics API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/Block Physics API.jar",
+            "MD5": "ffbd2c91102ad907a50fa8a6ea6def54"
+          }
+        },{
+          "id": "confing_adn:BlockPhysicsFixs",
+          "name": "Block Physics FIXs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/Block Physics FIXs.jar",
+            "MD5": "20a94497d3f289f394b2db752bd7c1ca"
+          }
+        },{
+          "id": "confing_adn:BlockPhysicsWater",
+          "name": "Block Physics Water",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/Block Physics Water.jar",
+            "MD5": "a70ac0bf1e58ee0e7c277ee2d44778b5"
+          }
+        },{
+          "id": "confing_adn:BlockPhysics",
+          "name": "Block Physics",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/Block Physics.jar",
+            "MD5": "dbc7cb9430a709fd430072091daafb30"
+          }
+        },{
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
