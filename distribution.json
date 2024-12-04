@@ -770,6 +770,159 @@
             "MD5": "dbc7cb9430a709fd430072091daafb30"
           }
         },{
+          "id": "confing_adn:ClassicBar",
+          "name": "ClassicBar",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/ClassicBar.jar",
+            "MD5": "f06710fe5a77993720202101f3319764"
+          }
+        },{
+          "id": "confing_adn:Homoium",
+          "name": "Homoium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/Homoium.jar",
+            "MD5": "94ef080cb0b22f6dea45774369747b9f"
+          }
+        },{
+          "id": "confing_adn:FirstAid",
+          "name": "First Aid",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/First Aid.jar",
+            "MD5": "2285c027e76459f5e3f2db143ee65f1c"
+          }
+        },{
+          "id": "confing_adn:Hwyla",
+          "name": "Hwyla",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/Hwyla.jar",
+            "MD5": "bca1c069d9171d331d211d24e8a3b770"
+          }
+        },{
+          "id": "confing_adn:InventoryHud",
+          "name": "Inventory Hud",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/Inventory Hud.jar",
+            "MD5": "3698c90450b9a418be3536b8137a1822"
+          }
+        },{
+          "id": "confing_adn:JEI",
+          "name": "JEI",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/JEI.jar",
+            "MD5": "c08dcdd4f86753d5130f11a987583e85"
+          }
+        },{
+          "id": "confing_adn:JourneyMap",
+          "name": "JourneyMap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/JourneyMap.jar",
+            "MD5": "15082068285e3347a368a7b653493287"
+          }
+        },{
+          "id": "confing_adn:Mekanism",
+          "name": "Mekanism:CU",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/Mekanism.jar",
+            "MD5": "5e32e978a2e3ccd3305a970df3c52747"
+          }
+        },{
+          "id": "confing_adn:Warfare",
+          "name": "Modern Warfare",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/Modern Warfare.jar",
+            "MD5": "50ae68f7a221f2a9eae94982cff0d4d7"
+          }
+        },{
+          "id": "confing_adn:MultithreadedNoise",
+          "name": "MultithreadedNoise",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/MultithreadedNoise.jar",
+            "MD5": "b4d11488a9ef451d463470d8c975f778"
+          }
+        },{
+          "id": "confing_adn:NTMExtended",
+          "name": "NTM:Extended",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/NTMExtended.jar",
+            "MD5": "e3e8cf35a07a3f87f26e22aa232fd92b"
+          }
+        },{
+          "id": "confing_adn:Optifine",
+          "name": "Optifine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/Optifine.jar",
+            "MD5": "7ec95c57ac1a224d6eb93bd370e4ac37"
+          }
+        },{
+          "id": "confing_adn:Pig",
+          "name": "Pig",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/Pig.jar",
+            "MD5": "d0b3415239b34604849a74cf305404af"
+          }
+        },{
+          "id": "confing_adn:RandomTweaks",
+          "name": "Random Tweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/Random Tweaks.jar",
+            "MD5": "bddf7235a87732bada34e2474d7bee97"
+          }
+        },{
+          "id": "confing_adn:sevendaystomine",
+          "name": "sevendaystomine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/sevendaystomine.jar",
+            "MD5": "96687a78e172d1feed2513c0a3e1d0ae"
+          }
+        },{
+          "id": "confing_adn:UniversalTweaks",
+          "name": "UniversalTweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/UniversalTweaks.jar",
+            "MD5": "47c10d509ccc46b2d2093bc3541818a9"
+          }
+        },{
+          "id": "confing_adn:Valkyrie",
+          "name": "Valkyrie",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/Valkyrie.jar",
+            "MD5": "286c91bcfbd007b40a49e264c3da0cda"
+          }
+        },{
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
