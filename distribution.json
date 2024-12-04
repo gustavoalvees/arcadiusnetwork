@@ -706,6 +706,15 @@
             "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/!ConfigAnytime.jar",
             "MD5": "3adfd6a9e04453888e68d858c0347dea"
           }
+        },{
+          "id": "confing_adn:mixinbooter",
+          "name": "MixinBooter",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": -1,
+            "url": "https://raw.githubusercontent.com/gustavoalvees/arcadiusnetwork/refs/heads/main/wasteland/servers/adn/forgemods/required/!mixinbooter.jar",
+            "MD5": "1629110e46229208f13f7927deb5e362"
+          }
         },
         {
           "id": "servers.dat",
